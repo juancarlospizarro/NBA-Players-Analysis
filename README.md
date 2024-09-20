@@ -38,5 +38,3 @@ Here, I attach some example graphs so you can see what the final result of the g
 ![imagen](https://github.com/juancarlospizarro/NBA-Players-Analysis/blob/main/output/undrafted-by-age.png)
 
 ![imagen](https://github.com/juancarlospizarro/NBA-Players-Analysis/blob/main/output/undrafted-by-season.png)
-
-![imagen]()
