@@ -35,9 +35,7 @@ This is a project where I have analyzed NBA players from the beginning until now
 
 Here, I attach some example graphs so you can see what the final result of the graphical analysis would look like.
 
-
-
-![imagen]()
+![imagen](https://github.com/juancarlospizarro/NBA-Players-Analysis/blob/main/output/undrafted-by-age.png)
 
 ![imagen]()
 
